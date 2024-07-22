@@ -1,0 +1,1183 @@
+2021-04-22 21:16:32: 0: start segmenter: version=2.5 type=0 input= segment_filename=c:\_acestream_cache_\_hls_13cd90ad9eeea8c82f29e79beb27caf91cd337ee\%d.ts manifest_path=c:\_acestream_cache_\_hls_13cd90ad9eeea8c82f29e79beb27caf91cd337ee\index.m3u8 baseurl=/ace/c/13cd90ad9eeea8c82f29e79beb27caf91cd337ee/ seek_ts=0 start_sequence=0 chunk_duration=5 max_segments=20 transcode_audio=0 transcode_mp3=0 transcode_ac3=0 preferred_audio_language=
+--------------------
+2021-04-22 21:16:32: 0: set analyze duration: 20000000
+2021-04-22 21:16:32: 0: avio_seek_func: offset=0 whence=0
+2021-04-22 21:16:32: 0: avio_seek_func: missing seek func
+2021-04-22 21:16:32: [mpegts @ 018a0fa0] Unable to seek back to the start
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:32: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:32: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] non-existing PPS 0 referenced
+2021-04-22 21:16:34: [h264 @ 018b9e60] decode_slice_header error
+2021-04-22 21:16:34: [h264 @ 018b9e60] no frame!
+2021-04-22 21:16:34: 0: avio_seek_func: offset=0 whence=65536
+2021-04-22 21:16:34: 0: avio_seek_func: missing seek func
+2021-04-22 21:16:34: 0: avio_seek_func: offset=-1 whence=2
+2021-04-22 21:16:34: 0: avio_seek_func: missing seek func
+2021-04-22 21:16:34: 0: avio_seek_func: offset=0 whence=65536
+2021-04-22 21:16:34: 0: avio_seek_func: missing seek func
+2021-04-22 21:16:34: 0: avio_seek_func: offset=-1 whence=2
+2021-04-22 21:16:34: 0: avio_seek_func: missing seek func
+2021-04-22 21:16:34: Input #0, mpegts, from 'input':
+  Duration: N/A, start: 27490.015544, bitrate: N/A
+  Program 1 
+    Stream #0:0[0x48](spa): Audio: mp3 ([3][0][0][0] / 0x0003), 44100 Hz, stereo, s16p, 96 kb/s
+    Stream #0:1[0x49]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+2021-04-22 21:16:34: 0: init: ic.name=mpegts duration=-9223372036854
+2021-04-22 21:16:34: 0: got audio stream: 0->0 codec=86017
+2021-04-22 21:16:34: 0:  lang=spa
+2021-04-22 21:16:34: 0: got video stream: 1->1 codec=28
+2021-04-22 21:16:34: 0: stream map: 0->0
+2021-04-22 21:16:34: 0: stream map: 1->1
+2021-04-22 21:16:34: 0: on_media_info: container=mpegts duration=-2077252342 bitrate=0 nb_streams=2
+2021-04-22 21:16:34: 0: hls_mux_init: map: 0->0
+2021-04-22 21:16:34: 0: hls_mux_init: map: 1->1
+2021-04-22 21:16:34: Output #0, mpegts, to 'output':
+    Stream #0:0: Audio: mp3 ([3][0][0][0] / 0x0003), 44100 Hz, stereo, s16p, 96 kb/s
+    Stream #0:1: Video: h264 ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 50 tbn, 50 tbc
+2021-04-22 21:16:35: 0: segment created: seq=0 duration=5.56
+2021-04-22 21:16:35: 0: segment created: seq=1 duration=6.20
+2021-04-22 21:16:36: 0: segment created: seq=2 duration=4.84
+2021-04-22 21:16:37: 0: segment created: seq=3 duration=6.04
+2021-04-22 21:16:48: 0: segment created: seq=4 duration=12.00
+2021-04-22 21:16:50: 0: segment created: seq=5 duration=1.68
+2021-04-22 21:16:59: 0: segment created: seq=6 duration=10.00
+2021-04-22 21:17:01: 0: segment created: seq=7 duration=1.92
+2021-04-22 21:17:07: 0: segment created: seq=8 duration=5.24
+2021-04-22 21:17:17: 0: segment created: seq=9 duration=10.00
+2021-04-22 21:17:26: 0: segment created: seq=10 duration=10.00
+2021-04-22 21:17:36: 0: segment created: seq=11 duration=10.00
+2021-04-22 21:17:46: 0: segment created: seq=12 duration=10.00
+2021-04-22 21:17:57: 0: segment created: seq=13 duration=10.00
+2021-04-22 21:18:07: 0: segment created: seq=14 duration=10.00
+2021-04-22 21:18:17: 0: segment created: seq=15 duration=10.00
+2021-04-22 21:18:22: 0: segment created: seq=16 duration=5.48
+2021-04-22 21:18:27: 0: segment created: seq=17 duration=5.20
+2021-04-22 21:18:33: 0: segment created: seq=18 duration=5.20
+2021-04-22 21:18:41: 0: segment created: seq=19 duration=3.96
+2021-04-22 21:18:42: [mpegts @ 018a0fa0] PES packet size mismatch
+2021-04-22 21:18:42: 0: got stop flag
+2021-04-22 21:18:42: 0: segment created: seq=20 duration=2.08
+2021-04-22 21:18:42: 0: segmenter.run() finished
+2021-04-22 21:18:42: 0: on_finished: ret=0
+2021-04-22 21:31:35: 1: start segmenter: version=2.5 type=0 input= segment_filename=c:\_acestream_cache_\_hls_13cd90ad9eeea8c82f29e79beb27caf91cd337ee\%d.ts manifest_path=c:\_acestream_cache_\_hls_13cd90ad9eeea8c82f29e79beb27caf91cd337ee\index.m3u8 baseurl=/ace/c/13cd90ad9eeea8c82f29e79beb27caf91cd337ee/ seek_ts=0 start_sequence=0 chunk_duration=5 max_segments=20 transcode_audio=0 transcode_mp3=0 transcode_ac3=0 preferred_audio_language=
+--------------------
+2021-04-22 21:31:35: 1: set analyze duration: 20000000
+2021-04-22 21:31:35: 1: avio_seek_func: offset=0 whence=0
+2021-04-22 21:31:35: 1: avio_seek_func: missing seek func
+2021-04-22 21:31:35: [mpegts @ 0fad1020] Unable to seek back to the start
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:35: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:35: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:37: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:37: [h264 @ 0f911240] non-existing PPS 0 referenced
+2021-04-22 21:31:37: [h264 @ 0f911240] decode_slice_header error
+2021-04-22 21:31:37: [h264 @ 0f911240] no frame!
+2021-04-22 21:31:37: 1: avio_seek_func: offset=0 whence=65536
+2021-04-22 21:31:37: 1: avio_seek_func: missing seek func
+2021-04-22 21:31:37: 1: avio_seek_func: offset=-1 whence=2
+2021-04-22 21:31:37: 1: avio_seek_func: missing seek func
+2021-04-22 21:31:37: 1: avio_seek_func: offset=0 whence=65536
+2021-04-22 21:31:37: 1: avio_seek_func: missing seek func
+2021-04-22 21:31:37: 1: avio_seek_func: offset=-1 whence=2
+2021-04-22 21:31:37: 1: avio_seek_func: missing seek func
+2021-04-22 21:31:37: Input #0, mpegts, from 'input':
+  Duration: N/A, start: 28391.414611, bitrate: N/A
+  Program 1 
+    Stream #0:0[0x48](spa): Audio: mp3 ([3][0][0][0] / 0x0003), 44100 Hz, stereo, s16p, 96 kb/s
+    Stream #0:1[0x49]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+2021-04-22 21:31:37: 1: init: ic.name=mpegts duration=-9223372036854
+2021-04-22 21:31:37: 1: got audio stream: 0->0 codec=86017
+2021-04-22 21:31:37: 1:  lang=spa
+2021-04-22 21:31:37: 1: got video stream: 1->1 codec=28
+2021-04-22 21:31:37: 1: stream map: 0->0
+2021-04-22 21:31:37: 1: stream map: 1->1
+2021-04-22 21:31:37: 1: on_media_info: container=mpegts duration=-2077252342 bitrate=0 nb_streams=2
+2021-04-22 21:31:37: 1: hls_mux_init: map: 0->0
+2021-04-22 21:31:37: 1: hls_mux_init: map: 1->1
+2021-04-22 21:31:37: Output #0, mpegts, to 'output':
+    Stream #0:0: Audio: mp3 ([3][0][0][0] / 0x0003), 44100 Hz, stereo, s16p, 96 kb/s
+    Stream #0:1: Video: h264 ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 50 tbn, 50 tbc
+2021-04-22 21:31:39: 1: segment created: seq=0 duration=12.20
+2021-04-22 21:31:41: 1: segment created: seq=1 duration=6.24
+2021-04-22 21:31:41: 1: segment created: seq=2 duration=3.24
+2021-04-22 21:31:45: 1: segment created: seq=3 duration=10.00
+2021-04-22 21:31:50: 1: segment created: seq=4 duration=5.24
+2021-04-22 21:31:55: 1: segment created: seq=5 duration=5.00
+2021-04-22 21:32:00: 1: segment created: seq=6 duration=5.40
+2021-04-22 21:32:03: [mpegts @ 0fad1020] PES packet size mismatch
+2021-04-22 21:32:03: [mpegts @ 0fad1020] PES packet size mismatch
+2021-04-22 21:32:03: 1: got stop flag
+2021-04-22 21:32:03: 1: segment created: seq=7 duration=2.68
+2021-04-22 21:32:03: 1: segmenter.run() finished
+2021-04-22 21:32:03: 1: on_finished: ret=0
+2021-04-22 22:04:01: 2: start segmenter: version=2.5 type=0 input= segment_filename=c:\_acestream_cache_\_hls_13cd90ad9eeea8c82f29e79beb27caf91cd337ee\%d.ts manifest_path=c:\_acestream_cache_\_hls_13cd90ad9eeea8c82f29e79beb27caf91cd337ee\index.m3u8 baseurl=/ace/c/13cd90ad9eeea8c82f29e79beb27caf91cd337ee/ seek_ts=0 start_sequence=0 chunk_duration=5 max_segments=20 transcode_audio=0 transcode_mp3=0 transcode_ac3=0 preferred_audio_language=
+--------------------
+2021-04-22 22:04:01: 2: set analyze duration: 20000000
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:01: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:01: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:02: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:02: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:02: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:02: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:02: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:02: [h264 @ 0194ba40] non-existing PPS 0 referenced
+2021-04-22 22:04:02: [h264 @ 0194ba40] decode_slice_header error
+2021-04-22 22:04:02: [h264 @ 0194ba40] no frame!
+2021-04-22 22:04:02: 2: avio_seek_func: offset=0 whence=65536
+2021-04-22 22:04:02: 2: avio_seek_func: missing seek func
+2021-04-22 22:04:02: 2: avio_seek_func: offset=-1 whence=2
+2021-04-22 22:04:02: 2: avio_seek_func: missing seek func
+2021-04-22 22:04:02: 2: avio_seek_func: offset=0 whence=65536
+2021-04-22 22:04:02: 2: avio_seek_func: missing seek func
+2021-04-22 22:04:02: 2: avio_seek_func: offset=-1 whence=2
+2021-04-22 22:04:02: 2: avio_seek_func: missing seek func
+2021-04-22 22:04:02: Input #0, mpegts, from 'input':
+  Duration: N/A, start: 30342.129144, bitrate: N/A
+  Program 1 
+    Stream #0:0[0x48](spa): Audio: mp3 ([3][0][0][0] / 0x0003), 44100 Hz, stereo, s16p, 96 kb/s
+    Stream #0:1[0x49]: Video: h264 (High) ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], 25 fps, 25 tbr, 90k tbn, 50 tbc
+2021-04-22 22:04:02: 2: init: ic.name=mpegts duration=-9223372036854
+2021-04-22 22:04:02: 2: got audio stream: 0->0 codec=86017
+2021-04-22 22:04:02: 2:  lang=spa
+2021-04-22 22:04:02: 2: got video stream: 1->1 codec=28
+2021-04-22 22:04:02: 2: stream map: 0->0
+2021-04-22 22:04:02: 2: stream map: 1->1
+2021-04-22 22:04:02: 2: on_media_info: container=mpegts duration=-2077252342 bitrate=0 nb_streams=2
+2021-04-22 22:04:02: 2: hls_mux_init: map: 0->0
+2021-04-22 22:04:02: 2: hls_mux_init: map: 1->1
+2021-04-22 22:04:02: Output #0, mpegts, to 'output':
+    Stream #0:0: Audio: mp3 ([3][0][0][0] / 0x0003), 44100 Hz, stereo, s16p, 96 kb/s
+    Stream #0:1: Video: h264 ([27][0][0][0] / 0x001B), yuv420p, 1280x720 [SAR 1:1 DAR 16:9], q=2-31, 50 tbn, 50 tbc
+2021-04-22 22:04:04: 2: segment created: seq=0 duration=10.20
+2021-04-22 22:04:06: 2: segment created: seq=1 duration=9.12
+2021-04-22 22:04:09: 2: segment created: seq=2 duration=8.36
+2021-04-22 22:04:14: 2: segment created: seq=3 duration=4.80
+2021-04-22 22:04:24: 2: segment created: seq=4 duration=10.00
+2021-04-22 22:04:33: 2: segment created: seq=5 duration=10.00
+2021-04-22 22:04:42: 2: segment created: seq=6 duration=9.28
+2021-04-22 22:04:44: 2: segment created: seq=7 duration=1.76
+2021-04-22 22:04:46: 2: segment created: seq=8 duration=1.96
+2021-04-22 22:04:51: 2: segment created: seq=9 duration=5.32
+2021-04-22 22:04:58: 2: segment created: seq=10 duration=6.76
+2021-04-22 22:05:08: 2: segment created: seq=11 duration=9.76
+2021-04-22 22:05:18: 2: segment created: seq=12 duration=10.00
+2021-04-22 22:05:27: 2: segment created: seq=13 duration=9.36
+2021-04-22 22:05:29: 2: segment created: seq=14 duration=3.00
+2021-04-22 22:05:32: 2: segment created: seq=15 duration=2.36
+2021-04-22 22:05:34: 2: segment created: seq=16 duration=2.48
+2021-04-22 22:05:41: 2: segment created: seq=17 duration=6.12
+2021-04-22 22:05:47: 2: segment created: seq=18 duration=6.92
+2021-04-22 22:05:59: 2: segment created: seq=19 duration=10.00
+2021-04-22 22:06:08: 2: segment created: seq=20 duration=10.00
+2021-04-22 22:06:18: 2: segment created: seq=21 duration=10.00
+2021-04-22 22:06:28: 2: segment created: seq=22 duration=10.00
+2021-04-22 22:06:38: 2: segment created: seq=23 duration=10.00
+2021-04-22 22:06:49: 2: segment created: seq=24 duration=10.00
+2021-04-22 22:06:57: 2: segment created: seq=25 duration=10.00
+2021-04-22 22:07:07: [mpegts @ 0fad1020] PES packet size mismatch
+2021-04-22 22:07:07: 2: got stop flag
+2021-04-22 22:07:07: 2: segment created: seq=26 duration=9.88
+2021-04-22 22:07:07: 2: segmenter.run() finished
+2021-04-22 22:07:07: 2: on_finished: ret=0

@@ -1,0 +1,34 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>13009</defaultID>
+		<label>13009</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>Quit()</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>powersettings</defaultID>
+		<label>5</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(settings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Alfa</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.alfa/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsCiAgICAiY2F0ZWdvcnkiOiAiU2V0dGluZ3MiLAogICAgImluZm9MYWJlbHMiOiB7fSwKICAgICJtb2R1bGUiOiAic2V0dGluZyIsCiAgICAidGh1bWJuYWlsIjogIkM6XFxVc2Vyc1xcRmF0YWxcXEFwcERhdGFcXFJvYW1pbmdcXEtvZGlcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmFsZmFcXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdGh1bWJfc2V0dGluZ18wLnBuZyIsCiAgICAidGl0bGUiOiAiU2V0dGluZ3MiLAogICAgInZpZXdtb2RlIjogImxpc3QiCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Crew</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.thecrew/?action=toolNavigator",return)</action>
+		</shortcut>
+	</shortcuts>

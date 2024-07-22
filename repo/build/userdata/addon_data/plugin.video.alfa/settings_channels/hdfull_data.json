@@ -1,0 +1,12 @@
+{
+    "settings": {
+        "filter_languages": 0,
+        "hdfullpassword": "",
+        "hdfulluser": "",
+        "include_in_global_search": true,
+        "modo_grafico": true,
+        "pagination_abc": true,
+        "show_langs": true,
+        "silence_mode": false
+    }
+}

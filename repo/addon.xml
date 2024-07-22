@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="1" name="Fatal Builds" version="0.01" provider-name="jmjles">
+    <extension point="xbmc.addon.repository" name="Fatal Repo">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jmjles/fatal-build/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jmjles/fatal-build/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jmjles/fatal-build/main/repo/zips/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Fatal's Repo</summary>
+        <description>Local fatal build</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
