@@ -1,5 +1,5 @@
 name="fatal-build"
-url="https://github.com/jmjles/fatal-build/fatal-build.zip"
+url="https://raw.githubusercontent.com/jmjles/fatal-build/main/fatal-build.zip"
 extracted="473886017"
 zipsize="253364364"
 skin="Amber"
