@@ -3,7 +3,7 @@ version="1.0.0"
 zip="url.to.wizard"
 
 name="Fatal Build"
-version="2.0"
+version="2.1"
 url="http://github.com/jmjles/fatal-build/raw/main/fatal-build.zip"
 minor="http://"
 gui="http://your.guisettings.url/"
